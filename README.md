@@ -27,8 +27,6 @@
   * Fazer uso de `PropTypes` para validar as `props de um componente`.
 </details>
 
-# Orientações
-
 <details>
   <summary><strong>‼️ Como executar</strong></summary><br />
 
@@ -46,6 +44,8 @@
   - `npm start`
 
 </details>
+
+https://brandao-rafael.github.io/solar-system/
 
 # Requisitos
 
